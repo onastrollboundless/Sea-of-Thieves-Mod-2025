@@ -13,7 +13,7 @@
 - **Crosshair Type**: Choose epic crosshair styles—aim like a pro!
 - **Show Oxygen Level**: Track oxygen underwater—survive the dive!
 
-### ✅ Визуалы (Visual ESP)
+### ✅ Visuals (Visual ESP)
 - **Entity ESP**: See through walls—reveal players, mobs, & ships!
   - **Snaplines**: Laser lines to targets—never lose track!
   - **Teammates**: Highlight allies—team up perfectly!
